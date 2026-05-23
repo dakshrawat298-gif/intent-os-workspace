@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡ Intent-OS Workspace
 
-## Getting Started
+**[ߔ Watch the Pitch Video Here](TERA_VIDEO_LINK_YAHAN_DAAL)** | **[✨ View Live Demo on Vercel](TERA_VERCEL_LINK_YAHAN_DAAL)**
 
-First, run the development server:
+*The operating system layer is unbundling. The future isn't a better terminal; it's a completely transparent, intent-driven interface.*
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Intent-OS is a hyper-optimized frontend shell designed for the HydraDB Hackathon. Built completely zero-to-one using an AI-agentic workflow entirely on a mobile cloud setup at 4:00 AM, this project aims to prove one thing: **Multi-agent orchestration deserves a God-level UI.**
+
+## ߍ The Philosophy
+While traditional platforms force users to learn complex CLI commands, Intent-OS borrows minimalism from top-tier hardware companies. You type a natural language intent, and the UI dynamically bends and transforms to serve that exact purpose. 
+
+No loading spinners. No generic chat bubbles. Just "Silence + Transformation."
+
+## ߧ Architecture Flow (The Metaphor)
+
+```mermaid
+graph TD
+    A[User Natural Language Intent] -->|Focus & Enter| B(Glassmorphic Intent Engine)
+    B --> C{Agent Swarm Orchestration}
+    C -->|Simulated HydraDB Routing| D[State Memory Logs]
+    C -->|Framer Motion Physics| E[Dynamic UI Generation]
+    D --> F((Final Dashboard Render))
+    E --> F
+    
+    style A fill:#0a0a0a,stroke:#333,stroke-width:1px,color:#fff
+    style B fill:#1a1a1a,stroke:#6366f1,stroke-width:2px,color:#fff
+    style C fill:#0a0a0a,stroke:#333,stroke-width:1px,color:#fff
+    style F fill:#0a0a0a,stroke:#10b981,stroke-width:2px,color:#fff
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ߚ The Visual Advantage
+- **Intent-Driven Kernel:** Replaces POSIX commands with natural language.
+- **Glassmorphic Aesthetic:** Deep ultra-dark mode, subtle backdrop blurs, and neon cyber-tech shadows.
+- **Fluid Transformations:** Uses Framer Motion spring physics to simulate zero-latency agentic output.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ߛ️ The Hustle & Tech Stack
+- **Core:** Next.js 15 (App Router)
+- **Styling:** TailwindCSS v4
+- **Animations:** Framer Motion
+- **Deployment:** Vercel Edge Network
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⚡ Run the Illusion Locally
+```bash
+git clone https://github.com/dakshrawat298-gif/intent-os-workspace.git
+cd intent-os-workspace
+npm install
+npm run dev
+```
