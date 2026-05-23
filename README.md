@@ -1,6 +1,6 @@
 # Intent-OS Workspace
 
-[Watch the Pitch Video Here](TERA_VIDEO_LINK_YAHAN_DAAL) | [View Live Demo on Vercel](TERA_VERCEL_LINK_YAHAN_DAAL)
+[Watch the Pitch Video Here](https://youtu.be/waIUu-E_yAw?si=SSCgeUCNjmcELYlj) | [View Live Demo on Vercel](https://www.loom.com/share/be378daf3cac4cd69e04468ed39845c7)
 
 The operating system layer is unbundling. The future isn't a better terminal; it is a completely transparent, intent-driven interface.
 
