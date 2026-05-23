@@ -172,6 +172,11 @@ export default function IntentOS() {
                 placeholder="e.g., Build a real-time analytics dashboard for my project..."
                 className="w-full bg-transparent border-none outline-none py-5 text-lg text-white placeholder:text-neutral-600 focus:ring-0 disabled:opacity-50"
                 disabled={appState !== "initial"}
+                autoComplete="off"
+                autoCorrect="off"
+                autoCapitalize="off"
+                spellCheck={false}
+                data-1p-ignore="true"
               />
               <div className="pr-3 pl-2">
                 <button
